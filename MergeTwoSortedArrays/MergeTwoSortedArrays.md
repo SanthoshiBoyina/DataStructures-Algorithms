@@ -1,3 +1,6 @@
+# Problem Link
+https://leetcode.com/problems/merge-sorted-array/description/
+
 # Problem Statement
 
 Merge Two Sorted Arrays bookmark_borderYou are given two sorted integer arrays A and B of size N and M respectively. Print the entire data in sorted order.
