@@ -1,0 +1,17 @@
+Number Reverse bookmark_borderGiven a number N, reverse the number.
+
+Input Format
+The first and only line of input contains a integer - N.
+
+Output Format
+Print the reversed number.
+
+Constraints
+-109 <= N <= 109
+
+Example
+Input
+1344
+
+Output
+4431
