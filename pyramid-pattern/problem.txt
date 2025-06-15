@@ -1,0 +1,18 @@
+Pyramid Pattern bookmark_borderPrint pyramid pattern using '*'. See the example for more details.
+
+Input Format
+The first and only line of input contains a single integer N - the size of the pyramid.
+
+Output Format
+For the given integer, print the pyramid pattern.
+
+Constraints
+1 <= N <= 50
+
+Example
+Input5
+Output    *
+   ***
+  *****
+ *******
+*********
