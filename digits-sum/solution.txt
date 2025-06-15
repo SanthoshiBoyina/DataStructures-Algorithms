@@ -1,0 +1,18 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+long long int digitsSum(string str) {
+    long long int res = 0;
+    for(int i=0; i<str.length(); i++) {
+        res += (str[i] - '0');
+    }
+    return res;
+}
+
+int main() {
+    string str;
+    cin >> str;
+
+    cout << digitsSum(str);
+    return 0;
+}
