@@ -1,0 +1,18 @@
+Anagram Basic bookmark_borderGiven two strings A and B consisting of lowercase characters, check if they are anagrams. An anagram is a rearrangement of the letters of one word to form another word. In other words, some permutations of string A must be the same as string B.
+
+Input Format
+The first line of input contains string A. The second line of input contains string B.
+
+Output Format
+Print "TRUE" if A and B are anagrams otherwise "FALSE".
+
+Constraints
+1 ≤ len(A), len(B) ≤ 104
+
+Example
+Input
+smartinterviews
+viewsintersmart
+
+Output
+TRUE
