@@ -1,0 +1,22 @@
+Implement Insertion Sort bookmark_borderGiven an array of size N, implement Insertion Sort.
+
+Input Format
+The first line of input contains an integer N - the size of an array. The second line contains the elements of the array.
+
+Output Format
+For each iteration of Insertion Sort, print the array elements.
+
+Constraints
+1 <= N <= 20
+1 <= A[i] <= 103
+
+Example
+Input
+5
+8 7 1 2 4
+
+Output
+7 8 1 2 4
+1 7 8 2 4
+1 2 7 8 4
+1 2 4 7 8
